@@ -1,0 +1,5 @@
+a b cc
+f = d + dd - dd
+a = b * 3 - 5
+g = a + (3 -4)
+k = (a / b) 
